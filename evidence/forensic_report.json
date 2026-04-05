@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-04-05T02:00:48.887225",
+    "control_archive": "/content/drive/MyDrive/System Logs /sysdiagnose_2025.03.03_15-08-06+0100_iPhone-OS_iPhone_22D72.tar.gz",
+    "target_archive": "/content/drive/MyDrive/sysdiagnose_2025.03.03_03-10-39+0100_iPhone-OS_iPhone_22D72.tar.gz",
+    "control_analysis": {
+        "integrity_score": 0,
+        "re_infection_score": 173
+    },
+    "target_analysis": {
+        "integrity_score": 0,
+        "re_infection_score": 173
+    },
+    "final_verdict": "INCONCLUSIVE - FURTHER MANUAL ANALYSIS REQUIRED",
+    "summary": "Analysis of TCC.db persistence confirmed 130+ anomalies from 2025."
+}
