@@ -1,0 +1,8 @@
+Uploaded in this session:
+- Century_Bug_Forensic_Evidence_Table.csv
+- forensic_report.json
+
+Pending local artifacts not written by connector in this session:
+- README.md
+- Final_Century_Bug_Evidence_Summary.pdf
+- TCC_Forensic_Evidence_OLG.pdf
