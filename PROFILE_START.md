@@ -8,7 +8,7 @@
 
 Die Profilergänzung vom 12. Oktober 2026 erschließt SQLite-/WAL-Rekonstruktion, TCC-/CKKS-Artefakte, IPSW- und Kernelcache-Analysen, Hash-/Metadatenprüfung, Netzwerk-Zeitachsen und eigene Python-/Notebook-Werkzeuge.
 
-Methoden, Arbeitsweise und mögliche Übergabeprodukte stehen im verlinkten Leistungsprofil.
+Die Arbeitsprobe vom 12. Juli 2026 dokumentiert 506 WAL-Frames, 105 geborgene Datensätze und 51 exakte Exportübereinstimmungen. Methoden, Ergebnisstände und Quellenbasis stehen im verlinkten Leistungsprofil.
 
 ---
 
