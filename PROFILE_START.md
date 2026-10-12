@@ -1,5 +1,17 @@
 # Systemkomplex Jahn: Repository Profile Start
 
+## Leistungsprofil Roman Jahn
+
+**R&A Legal Operations Consulting · Unabhängige IT-Forensik und technische Zuarbeit für Kanzleien und Unternehmen**
+
+[Ausführliches Leistungsprofil](LEISTUNGSPROFIL.md) · [R&A Website](https://ra-legal-operations-consulting.r-a-legal-op-4142.chatgpt.site/) · [Arbeitsproben auf der Website](https://ra-legal-operations-consulting.r-a-legal-op-4142.chatgpt.site/leistungsprofil.html)
+
+Die Profilergänzung vom 12. Oktober 2026 erschließt SQLite-/WAL-Rekonstruktion, TCC-/CKKS-Artefakte, IPSW- und Kernelcache-Analysen, Hash-/Metadatenprüfung, Netzwerk-Zeitachsen und eigene Python-/Notebook-Werkzeuge.
+
+Methoden, Arbeitsweise und mögliche Übergabeprodukte stehen im verlinkten Leistungsprofil.
+
+---
+
 ## Uebersicht
 
 Diese Datei dient als kompakter Profil- und Landing-Einstieg fuer das Repository `Systemkomplex-Jahn-Full-Disclosure`.
