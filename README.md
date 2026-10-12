@@ -1,6 +1,12 @@
 # Systemkomplex Jahn: Full Disclosure
 **Technical SEAR Executive Briefing & Forensic Evidence Database**
 
+## Leistungsprofil Roman Jahn
+
+[Leistungsprofil mit dokumentierten Arbeitsproben](LEISTUNGSPROFIL.md) · [R&A Website](https://ra-legal-operations-consulting.r-a-legal-op-4142.chatgpt.site/)
+
+SQLite-/WAL-Rekonstruktion, Firmware- und Kernelcache-Inventare, Hash-/Metadatenprüfung, Netzwerk-Zeitachsen und Python-Workflows. Aktualisiert am 12. Oktober 2026 anhand der neuen Arbeitsunterlagen.
+
 ---
 
 ## 1. Einleitung
