@@ -1,5 +1,9 @@
 # Repository Start Page
 
+**Leistungsprofil Roman Jahn:** [Dokumentierte Methoden und Arbeitsproben](LEISTUNGSPROFIL.md) · [R&A Legal Operations Consulting](https://ra-legal-operations-consulting.r-a-legal-op-4142.chatgpt.site/)
+
+Profilstand: 12. Oktober 2026.
+
 Dieses Repository ist aktuell in zwei Hauptlinien gegliedert.
 
 ## 1. Evidence
